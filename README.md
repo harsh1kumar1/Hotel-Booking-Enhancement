@@ -2,7 +2,7 @@
 
 
 
-## Problem Statement
+
 
     • Engineered PowerBI dashboard for hotel booking insights.
     • Analyzed over 3 quarters of sales data for insights.  
@@ -227,11 +227,12 @@ DIVIDE(revcw,revpw,0)-1"	dim_date
 ![Dashboard_upload](
 [Uploading powerbi_2nd_project.pdf…]()
 
-![SharedScreenshot](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/e57ccb39-24ec-4e93-84f5-f851dd23004c
+![SharedScreenshot](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/e57ccb39-24ec-4e93-84f5-f851dd23004c)
 
-![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/2607f1cd-a2d9-4517-a844-4acaa91e9323
 
-![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/4a2ba736-179e-4ede-86b9-dbbe5555bc5b
+![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/2607f1cd-a2d9-4517-a844-4acaa91e9323)
+
+![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/4a2ba736-179e-4ede-86b9-dbbe5555bc5b)
 ![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/0924049f-03aa-4613-aeac-9c2d99291678)
 )
 )
