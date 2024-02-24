@@ -1,4 +1,4 @@
-# Hotel Booking Enhancement
+![WhatsApp Image 2024-02-24 at 12 02 05_07c354bb](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/061f927e-85a1-437e-9424-5a9b9728f09a)# Hotel Booking Enhancement
 
 
 
@@ -14,13 +14,10 @@
 ![Dashboard_upload](
 [Uploading powerbi_2nd_project.pdf…]()
 
-![SharedScreenshot](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/e57ccb39-24ec-4e93-84f5-f851dd23004c)
+![Uploading WhatsApp Image 2024-02-24 at 12.00.03_5cf2d230.jpg…]()
+![Uploading WhatsApp I![WhatsApp Image 2024-02-24 at 12 03 23_8539edc8](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/797d614a-78ed-42db-aa16-3ec394793395)
+mage 2024-02-24 at 12.02.05_07c354bb.jpg…]()
 
-
-![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/2607f1cd-a2d9-4517-a844-4acaa91e9323)
-
-![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/4a2ba736-179e-4ede-86b9-dbbe5555bc5b)
-![image](https://github.com/harsh1kumar1/Hotel-Booking-Enhancement/assets/121681237/0924049f-03aa-4613-aeac-9c2d99291678)
 )
 )
 )
